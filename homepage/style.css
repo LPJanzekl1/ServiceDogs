@@ -1,0 +1,513 @@
+h1 {color:rgb(67, 161, 174);
+    font-family:'Mali', cursive;
+    font-size:3.6rem;
+    align-content:flex-start;
+    align-content:row;
+    margin:0;
+    border:0;
+}
+ @media (max-width:1000px) {
+    #introH {
+        flex-wrap:wrap;
+    }
+    #training {
+        flex-wrap:wrap;
+    }
+    footer {
+        flex-wrap:wrap;
+    }
+    menu {
+        flex-wrap:wrap;
+    }
+    #logo1 {
+        flex-wrap:wrap;
+    }
+    #checkbox {
+        flex-wrap:wrap;
+    }
+    #flex {
+        flex-wrap:wrap;
+    }
+    #headingimg {
+        margin:50%;
+    }
+    #listtasks {
+        justify-content:center;
+        flex-wrap:wrap;
+    }
+    #listdisabilities {
+        flex-wrap:wrap;
+    }
+    #groupings {
+        flex-wrap:wrap;
+    }
+    #missionstatement {
+        flex-wrap: wrap;
+    }
+ }
+
+#Thankyou {
+    align-content:center;
+    font-family:'Kumbh Sans', sans-serif;
+    font-size:23px;
+    color:white;
+    padding:20px;
+    background-color:rgb(51, 102, 160);
+    border-radius:10px;
+    font:bold;
+    display:none;
+}
+#logo1 {
+    width:175px;
+    height: 200px;
+   justify-content:space-between;
+   margin-left:43%;
+   opacity: 1;
+   transition: opacity 2s;
+}
+#logo1:hover {
+    opacity: 0;
+}
+#introH {
+    font-size: 30px;
+    justify-content:start;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family: 'mali',serif;
+    margin-right:10px;
+}
+
+
+
+h1 img {
+    width:7%;
+    border:none;
+    rotate: 30deg;
+    align-items: flex-end;
+    opacity:1;
+    transition: opacity 2s;
+}
+h1 img:hover {
+    opacity: 0;
+}
+h1 img.small-paw {
+    width:3%;
+    border:none;
+    rotate: 30deg;
+    align-items: flex-end;
+    opacity:1;
+    transition: opacity 2s;
+}
+h1 img.small-paw:hover {
+    opacity:0;
+}
+:root{
+font: size 62.5%;
+--aquamarine:
+--black;
+color:(off-white);
+background-color:var(rgb(105, 186, 197));
+}
+#body nav {
+    display:inline-flex;
+    justify-content:flex-start;
+    background-color:rgb(67, 161, 174);
+    margin:100%;
+}
+body {
+    background-color:white;
+    color:rgb(0, 0, 0);
+    font-size:1.8rem;
+    margin:5%;
+    font-family:'Kumbh Sans', sans-serif;
+}
+#call {
+    float:right;
+    justify-self: space-between;
+    font-size:large;
+    
+}
+#About {
+    color:rgb(0, 0, 0);
+    font-family:'mali',serif;
+    font-size:24px;
+
+}
+#line {
+    align-content: center;
+    padding-bottom:10px;
+    color:rgb(105, 186, 197);
+}
+#mission {
+    background-color:rgb(51, 102, 160);
+    color:rgb(255, 255, 255);
+    border:none;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size:large; 
+    appearance: auto; 
+}
+#mission:hover {
+    background-color:rgba(101, 191, 197, 0.801);
+    border-color:rgb(105, 186, 197);
+    color:white;
+}
+#chat {
+    background-color:rgb(168, 190, 239);
+    color:rgb(0, 0, 0);
+    border:none;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'khumb sans', sans-serif;
+    font-size:large;  
+}
+#chat:hover {
+    background-color:rgb(111, 111, 174);
+    border-color:rgb(105, 186, 197);
+    color:white;
+}
+Menu {
+    background-color:rgb(67, 161, 174);
+    color:rgb(203, 242, 255);
+    display:flex;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+menu button {
+    color:rgb(255, 255, 255);
+    font-family:'khumh sans', sans-serif;
+    font-weight: bold;
+    background-color:rgb(67, 161, 174);
+    padding: 30px;
+    width: 100%;
+    border:none;
+    text-align:center;
+    font-size: 62.5%;
+    
+}
+menu button:hover {
+    border:dashed;
+    border-color:white;
+    transition: border-color .5s;
+    border-radius: 10px;
+}
+section {
+    font-size:62.5%;
+    color:rgb(105, 186, 197);
+    font-family: 'Kumbh Sans', sans-serif;
+}
+h2 {
+    width:50%;
+    font-size: 30px;
+    font-family:"Mali",serif,
+}
+#text {
+    width:55%;
+    font-size: 23px;
+    color:black;
+   padding:20px;
+}
+#Imgs {
+    width:500px;
+    height:400px;
+    margin:20px;
+    float:right;
+    border: 10px;
+}
+#one {
+    border-radius: 15px;
+}
+#two {
+    border-radius: 15px;
+    
+}
+#three {
+    border-radius: 15px;
+   
+}
+footer{
+    background-color:rgb(67, 161, 174);
+    color:rgb(105, 186, 197);
+    display:flex;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;  
+    align-content: baseline;
+}
+footer button {
+    background-color:rgb(67, 161, 174);
+    color:white;
+    font-family:'khumh sans', sans-serif;
+    font-weight: bold;
+    font-size:62.5%;
+    padding:30px;
+    width: 200px;
+    align-content: center;
+    border:none;
+   
+}
+footer button:hover {
+    border:dashed;
+    border: round;
+    border-color:white;
+    border-radius:5px;
+ }
+ #checkbox {
+  border:5px;
+  border-radius:5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:rgb(67, 161, 174);
+  color:rgb(249, 248, 248);
+  padding: 10px 20px;
+  font-size:large;
+  font-family:"Mali", sans-serif;
+ }
+ #Yes {
+    align-items: center;
+    background-color:rgb(67, 161, 174);
+    color:rgb(249, 248, 248);
+    padding: 10px 20px;
+    font-size:large;
+    font-family:"Mali", sans-serif;
+
+ }
+ #enter {
+  border:5px;
+  border-radius:5px;
+  background-color:rgb(249, 248, 248);
+  color:rgb(67, 161, 174);
+  padding: 10px 20px;
+  font-size:large;
+  font-family:"Mali", sans-serif;
+  
+ }
+ #enter:hover {
+    border:dashed;
+    border: round;
+    border-color:rgb(67, 161, 174);
+    border-radius:5px;
+ }
+#helpful {
+    font-family:"Mali", sans-serif;
+}
+
+#h2 {
+    font-family:"Mali", sans-serif;
+    font-size:40px;   
+}
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+#flex {
+    display:flex;
+    justify-content:space-evenly;
+    justify-content:flex-start;
+   
+}
+
+
+
+
+#intro {
+    font-size: 30px;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family: 'mali',serif;
+}
+#training {
+    color: rgb(0, 0, 0);
+    font-family:'khumh sans', sans-serif;
+    font-size: 24px;
+    display:flex;
+    align-items:center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    float: left;
+
+}
+#p1 {
+    color: rgb(0, 0, 0);
+    font-family: 'mali',serif;
+    font-size: 24px;
+    display: block;
+    align-content: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#good {
+    color:rgb(149, 149, 226);
+    align-content: center;
+    padding-bottom:10px; 
+}
+#bad {
+    color:pink;
+    align-content: center;
+    padding-bottom:10px;
+}
+
+video {
+    width:600px;
+    height:500px;
+    border-radius: 10px;
+    display: flex;
+    vertical-align: text-top;
+}
+#heading {
+    Float:right;
+    
+}
+#missionstatement {
+    display:flex;
+    justify-content:space-evenly;
+    justify-content:flex-start;
+}
+
+#flexwrap {
+    margin-bottom:80px;
+}
+
+#listtasks {
+    background-color:rgb(51, 102, 160);
+    color:rgb(255, 255, 255);
+    font-family: 'mali',serif;
+    font-size: 24px;
+    margin-top: 22px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center; 
+}
+#listtasks:hover {
+    background-color:rgb(16, 43, 74);
+    color:rgb(255, 255, 255);
+    border:dashed;
+    border-color:rgb(51, 102, 160);
+}
+
+#headingimg {
+        width:1000px;
+        height:650px;
+        margin:20px;
+        float:right;
+        border: 10px;
+        border-radius: 10px;
+}
+#ADA {
+    background-color:rgb(51, 102, 160);
+    color:rgb(255, 255, 255);
+    font-family: 'mali',serif;
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-top: 55px;
+    margin-right:10px;
+    padding: 11px;
+    border: none;
+    border-radius: 5px;
+    justify-content: center;
+}
+#headingleo {
+    width:800px;
+    height:600px;
+    margin:20px;
+    float:right;
+    border: 10px;
+    border-radius: 10px;
+}
+#headingmyznik {
+    width:600px;
+    height:800px;
+    margin:20px;
+    float:right;
+    border: 10px;
+    border-radius: 10px;
+}
+#headingralph {
+    width: 750px;
+    height:600px;
+    margin:20px;
+    float:right;
+    border: 10px;
+    border-radius: 10px;
+}
+#fontsize {
+    background-color:white;
+    color:rgb(0, 0, 0);
+    font-size:23px;
+    margin-right:5%;
+    justify-content:start;
+    font-family:'Kumbh Sans', sans-serif;
+}
+#headingID {
+    width: 550px;
+    height:600px;
+    margin:20px;
+    float:right;
+    border: 10px;
+    border-radius: 10px;
+}
+.closed {
+    background-color:rgb(67, 161, 174);
+    color:rgb(203, 242, 255);
+    display:flex;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.close:hover {
+border:dashed;
+border-color:white;
+transition: border-color .5s;
+border-radius: 10px;
+}
+#welcome {
+    color:rgb(255, 255, 255);
+    font-family:'khumh sans', sans-serif;
+    font-weight: bold;
+    background-color:rgb(7, 82, 92);
+    padding: 30px;
+    margin-right:100px;
+    margin-left:100px;
+    border:none;
+    border-radius:400px;
+    text-align:center;
+    font-size: 50px;
+    float:over;
+    
+}
+#welcome:hover {
+    border:dashed;
+    border-color:white;
+    transition: border-color .5s;
+    border-radius: 400px;
+    float:over;
+}
+
+
+
+
+
+

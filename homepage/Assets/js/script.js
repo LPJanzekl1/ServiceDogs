@@ -1,0 +1,1 @@
+// js code written directly into HTMLs//
